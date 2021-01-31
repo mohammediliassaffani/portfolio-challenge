@@ -7,9 +7,9 @@
 ## Où tout trouver?
 
 Votre tâche consiste à construire le projet from scratch.
-Mettez vos images utilisés dans `/assets`. Vous y trouverez les fichiers html sur laquelle travailler.
+Mettez vos images utilisés dans :file_folder: `/assets`. Vous y trouverez les fichiers html sur laquelle travailler.
 
-Réalisez les maquettes en format JPG, PDF ou bien en XD. Nommez les maquettes comme cet exemple: *Portfolio-low-fed.pdf* , *Portfolio-high-fed.xd*. Mettez vos maquettes réaliser dans `/mockup`.
+Réalisez les maquettes en format JPG, PDF ou bien en XD. Nommez les maquettes comme cet exemple: *Portfolio-low-fed.pdf* , *Portfolio-high-fed.xd*. Mettez vos maquettes réaliser dans :file_folder: `/mockup`.
 
 Il existe également un fichier 'style-guide.md', remplir ce fichier par les informations dont vous aurez utilisés, telles que la palette de couleurs et les polices.
 
@@ -22,6 +22,8 @@ N'hésitez pas à utiliser le flux de travail qui vous convient le mieux. Vous t
 3. Faire un brainstorming sur les portfolios qui existent déjà sur le Net.
 4. Examinez les modèles créés pour commencer à planifier la manière dont vous allez aborder le projet. Cette étape est cruciale pour vous aider à anticiper les classes CSS que vous pourriez créer pour créer des styles réutilisables.
 5. Avant d'ajouter des styles, structurez votre contenu avec du HTML. Le fait d'écrire d'abord votre HTML peut vous aider à vous concentrer sur la création d'un contenu bien structuré,
+
+```
 .
 ├── index.html          # La première page de votre portfolio
 │   ├── Menu            # Navigation sur les pages (index, skills, portfolio, contact)
@@ -36,14 +38,15 @@ N'hésitez pas à utiliser le flux de travail qui vous convient le mieux. Vous t
 │   ├── Menu            # Navigation sur les pages (index, skills, portfolio, contact)
 │   ├── Projects        # Cards (image, title, description, button redirige vers le projet)
 │   └── footer          # Copyright
-├── skills.html         # La quatrième page de votre portfolio
-│   ├── Menu            # Navigation sur les pages (index, skills, portfolio, contact)
-│   ├── formulaire      # (Nom complet, Email, Message, button d'envoie)
-│   └── footer          # Copyright
+└── skills.html         # La quatrième page de votre portfolio
+    ├── Menu            # Navigation sur les pages (index, skills, portfolio, contact)
+    ├── formulaire      # (Nom complet, Email, Message, button d'envoie)
+    └── footer          # Copyright
+```
 
-6. Rédigez les styles de base pour votre projet, y compris les styles de contenu général, tels que `font-family` et `font-size`.
+6. Rédigez les styles de base pour votre projet, y compris les styles de contenu général, tels que :pencil2: `font-family` et `font-size`.
 7. Commencez à ajouter des styles en haut de la page et travaillez en bas. Ne passez à la section suivante que lorsque vous êtes satisfait d'avoir terminé le domaine sur lequel vous travaillez.
-8. Les commentaires sont évidents
+8. Les commentaires sont évidents :pushpin:
 
 ## Déployez votre projet
 

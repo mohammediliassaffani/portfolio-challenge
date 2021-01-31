@@ -21,7 +21,17 @@ N'hésitez pas à utiliser le flux de travail qui vous convient le mieux. Vous t
 2. Configurez votre 'repository' pour publier votre code dans un URL. I existe plusieurs méthode de procéder, mais je recommande d'utiliser [Vercel](https://bit.ly/fem-vercel).
 3. Faire un brainstorming sur les portfolios qui existent déjà sur le Net.
 4. Examinez les modèles créés pour commencer à planifier la manière dont vous allez aborder le projet. Cette étape est cruciale pour vous aider à anticiper les classes CSS que vous pourriez créer pour créer des styles réutilisables.
-5. Avant d'ajouter des styles, structurez votre contenu avec du HTML. Le fait d'écrire d'abord votre HTML peut vous aider à vous concentrer sur la création d'un contenu bien structuré,
+5. Ajoutez CDN de [AnimateCSS](https://animate.style/).
+```html
+<head>
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+  />
+</head>
+```
+
+6. Avant d'ajouter des styles, structurez votre contenu avec du HTML. Le fait d'écrire d'abord votre HTML peut vous aider à vous concentrer sur la création d'un contenu bien structuré,
 
 ```
 .
@@ -44,9 +54,9 @@ N'hésitez pas à utiliser le flux de travail qui vous convient le mieux. Vous t
     └── footer          # Copyright
 ```
 
-6. Rédigez les styles de base pour votre projet, y compris les styles de contenu général, tels que :pencil2: `font-family` et `font-size`.
-7. Commencez à ajouter des styles en haut de la page et travaillez en bas. Ne passez à la section suivante que lorsque vous êtes satisfait d'avoir terminé le domaine sur lequel vous travaillez.
-8. Les commentaires sont évidents :pushpin:
+7. Rédigez les styles de base pour votre projet, y compris les styles de contenu général, tels que :pencil2: `font-family` et `font-size`.
+8. Commencez à ajouter des styles en haut de la page et travaillez en bas. Ne passez à la section suivante que lorsque vous êtes satisfait d'avoir terminé le domaine sur lequel vous travaillez.
+9. Les commentaires sont évidents :pushpin:
 
 ## Déployez votre projet
 

@@ -70,7 +70,7 @@ Comme mentionné ci-dessus, il existe plusieurs façons d'héberger gratuitement
 
 Vous devez partager votre solution à plusieurs endroits:
 
-1. Soumettez-le sur la plateforme. ["Simplonline"](https://simplonline.co/briefs/f8201384-c766-4df9-811c-fd45b8878f16) pour soumettre le rendu.
-2. Partagez votre solution **#i-made-this** channel sur discord [Slack community](https://discord.com/channels/796004789359476736/797776487998685214).
+1. Soumettez-le sur la plateforme. ["Simplonline"](https://simplonline.co/briefs/421b6cde-ce37-4e27-a37e-3d22bbbaf18b) pour soumettre le rendu.
+2. Partagez votre solution **#i-made-this** channel sur discord [Discord community](https://discord.com/channels/796004789359476736/797776487998685214).
 
 **Best of luck Coding Guild!** 🚀

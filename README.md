@@ -38,20 +38,20 @@ N'hésitez pas à utiliser le flux de travail qui vous convient le mieux. Vous t
 ├── index.html          # La première page de votre portfolio
 │   ├── Menu            # Navigation sur les pages (index, skills, portfolio, contact)
 │   ├── Hero section    # Grand titre, Image, button redirige vers votre CV
-│   └── footer          # Copyright
+│   └── footer          # Copyright + social icons
 ├── skills.html         # La deuxième page de votre portfolio
 │   ├── Menu            # Navigation sur les pages (index, skills, portfolio, contact)
 │   ├── About           # Sommaire (paragraphe)
 │   ├── Compétences     # Décrivez les technos que vous maîtrisez (animation est importante)
-│   └── footer          # Copyright
+│   └── footer          # Copyright + social icons
 ├── project.html        # La troisième page de votre portfolio
 │   ├── Menu            # Navigation sur les pages (index, skills, portfolio, contact)
 │   ├── Projects        # Cards (image, title, description, button redirige vers le projet)
-│   └── footer          # Copyright
-└── skills.html         # La quatrième page de votre portfolio
+│   └── footer          # Copyright + social icons
+└── contact.html         # La quatrième page de votre portfolio
     ├── Menu            # Navigation sur les pages (index, skills, portfolio, contact)
     ├── formulaire      # (Nom complet, Email, Message, button d'envoie)
-    └── footer          # Copyright
+    └── footer          # Copyright + social icons
 ```
 
 7. Rédigez les styles de base pour votre projet, y compris les styles de contenu général, tels que :pencil2: `font-family` et `font-size`.
